@@ -854,9 +854,9 @@ textarea.form-control {
   background-color: #fff;
   border-radius: 3px;
 }
-.about-img animate{
- display: flex;
-    align-items: center;
-    justify-content: space-between;
-    gap: 20px;
+.about-img{
+   display: flex;
+   align-items: center;
+   justify-content: space-between;
+   gap: 20px;
 }
